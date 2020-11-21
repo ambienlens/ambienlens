@@ -17,8 +17,8 @@ Still learning Coding!...
   <img align="left" alt="Debayan Majumder | Facebook" width="20px" src="https://raw.githubusercontent.com/ambientlensation/ambientlensation/master/facebook-logo.svg" />
 
 <a href="https://www.instagram.com/_ambientlensation_/">
-  <img align="left" alt="Debayan Majumder | Instagram" width="20px" src="https://raw.githubusercontent.com/ambientlensation/ambientlensation/master/behance-logo.svg" />
+  <img align="left" alt="Debayan Majumder | Instagram" width="20px" src="https://raw.githubusercontent.com/ambientlensation/ambientlensation/master/instagram-logo.svg" />
 
 <a href="https://www.behance.net/_ambientlensation_">
-  <img align="left" alt="Debayan Majumder | Behance" width="20px" src="https://raw.githubusercontent.com/ambientlensation/ambientlensation/master/instagram-logo.svg" />
+  <img align="left" alt="Debayan Majumder | Behance" width="20px" src="https://raw.githubusercontent.com/ambientlensation/ambientlensation/master/behance-logo.svg" />
   
