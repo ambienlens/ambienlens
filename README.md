@@ -8,9 +8,9 @@ Still learning Coding!...
 
 <p>&nbsp;</p>
 
-![Debayan's github stats](https://github-readme-stats.vercel.app/api?username=ambientlensation)
+![Debayan's github stats](https://github-readme-stats.vercel.app/api?username=ambientlens)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambientlensation)](https://github.com/ambientlensation/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambientlensation)](https://github.com/ambientlens/github-readme-stats)
 
 
 ### **CONTACT ME**
