@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-Hi, I am an Amateur Software Developer based in India. I believe in open-source codes, hence contributing my codes and algorithms to such a community. Some technologies I love working with include **Java, Python, C/C++ , Flutter, Firebase**. Also, I do not code all day 😉, I am also a CG Artist and you can follow me on <a href="https://www.instagram.com/_ambientlensation_/">Instagram</a>.
+Hi, I am an Amateur Software Developer based in India. I believe in open-source codes, hence contributing my codes and algorithms to such a community. Some technologies I love working with include **Java, Python, C/C++ , Flutter, Firebase**. Also, I do not code all day 😉, I am also a CG Artist and you can follow me on <a href="https://www.instagram.com/ambienlens/">Instagram</a>.
 </br>
 Still learning Coding!...
 
